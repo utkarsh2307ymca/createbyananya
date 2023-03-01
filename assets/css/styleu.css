@@ -1,0 +1,17 @@
+.green {
+    color: #2c6a50;
+}
+
+.why-we li {
+    color: #676768;
+    font-size: 1.3rem!important;
+}
+
+.why-we li::marker {
+    color: #2c6a50;
+}
+
+.why-p p {
+    font-size: 1.3rem;
+    color: #676768;
+}
